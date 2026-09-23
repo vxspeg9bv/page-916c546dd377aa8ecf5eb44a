@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "aa507a78b2e9caf6ffcb35c8",
+  "owner": "vxspeg9bv",
+  "repo": "page-916c546dd377aa8ecf5eb44a",
+  "title": "kawakityy",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "916c546dd377aa8ecf5eb44a",
+      "a": "kawakityy",
+      "b": "机场官网线路发布页",
+      "entity": "kawakityy",
+      "brand": "kawakityy",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ba6fc7e8dee927499fdf01c3559656b359845554ff7a15ced998c073ddfabbcf",
+      "content": {
+        "primary_entity": "kawakityy",
+        "keyword1": "kawakityy",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选对应客户端：Windows 用 Clash Verge，macOS 用 ClashX，Android 用 v2rayNG，iOS 用 Shadowrocket。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和月流量从基础版、旗舰版、团队版中挑选，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐再配置",
+          "AI_DESCRIPTION": "，面向需要稳定海外线路的用户，提供三档月付与年付方案，覆盖单人到多人团队场景。基础版适合轻量使用，旗舰版带 IPLC 专线和流媒体解锁，团队版支持二十台设备与定制路由。按设备选用 Clash Verge、ClashX、v2rayNG 或 Shadowrocket 导入订阅，即可在常用终端上使用。",
+          "AI_FAQ_ANSWER_1": "基础版 100GB/月，支持 3 台设备；旗舰版 300GB/月，支持 5 台设备；团队版 1000GB/月，支持 20 台设备。按人数和流量选即可。",
+          "AI_FAQ_ANSWER_2": "按年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于比月付节省两个月费用。",
+          "AI_FAQ_ANSWER_3": "下单后获取订阅链接，在对应客户端里选择从 URL 导入或粘贴订阅，更新节点后选择延迟较低的线路连接。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 IPLC 专线，对游戏延迟和跨国会议更友好；同时全节点支持原生流媒体解锁。团队版另有 VIP 高带宽节点。",
+          "AI_FAQ_ANSWER_5": "设备数量超出套餐限制时，建议升级旗舰版或团队版。按年付可以锁定更长周期，也方便多人分摊费用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别适合多少人用？",
+          "AI_FAQ_QUESTION_2": "按年付比按月付省多少？",
+          "AI_FAQ_QUESTION_3": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_4": "IPLC 专线对哪些场景有帮助？",
+          "AI_FAQ_QUESTION_5": "多人共用时选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从线路类型、设备上限到订阅周期，按实际场景匹配套餐。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "普通节点池覆盖日常浏览，IPLC 专线为游戏和实时通信优化延迟。",
+          "AI_FEATURE_TEXT_2": "从 3 台到 20 台设备，按手机、电脑、平板与团队人数选择对应套餐。",
+          "AI_FEATURE_TEXT_3": "月付灵活试水，年付锁定更低单价，订阅周期随使用计划调整。",
+          "AI_FEATURE_TITLE_1": "线路分级",
+          "AI_FEATURE_TITLE_2": "设备匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先确认需求，再选客户端完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "kawakityy 提供基础版、旗舰版、团队版三档海外加速方案，流量从 100GB 到 1000GB，设备上限从 3 台到 20 台，支持 Clash Verge、ClashX、v2rayNG 与 Shadowrocket 等常用客户端导入订阅使用。",
+          "AI_HERO_SUBTITLE": "多档线路，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付节省两个月费用",
+          "AI_PLANS_INTRO": "基础版适合轻量单人或双人使用，旗舰版面向流媒体和游戏场景，团队版支持多设备与企业定制路由。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按每月流量和设备数量，从三档套餐中挑选合适的一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的节点类型、设备上限与流媒体解锁说明。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，更新节点后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "kawakityy 海外加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jnxhylc.cn",
+    "host": "jnxhylc.cn"
+  },
+  "file_hashes": {
+    "index.html": "08ea7c8bcbd9f4f3a15a469a8d10448ad27b71929c33aa0058b9925b89777d4e",
+    "sitemap.xml": "547c980da7722ec87b016d63732148e3b0384685d5e372561b5fc58da2f64d17",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3eef306f712019bbfa5532e82da7eaaaecb25ceac0c57a977212ae434da2547c",
+    "robots.txt": "69ec3e7aaca1055c99c9b997c725ab3c572dace53fd3f469c6aed334a9f1c475",
+    "5063c5d8c86450198a594d30ead68c79.txt": "316a87db5ff41f3f89a57c76ef4527bed77ca8a89a5192b4a09ae83716a833a5"
+  },
+  "revision": "aa74ef0a51b66643ecfa07333317f0c4d9acb2b1ed918efba90eb6eb558f7bde"
+}
